@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow
+joblib
+streamlit
+contractions
+nltk
+imblearn
+shap
